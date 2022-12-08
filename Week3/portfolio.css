@@ -1,0 +1,33 @@
+h1,h2,h3,h4{
+    color:rgb(42, 73, 6)
+}
+#paragraph {
+   color:rgb(255, 255, 255);
+   font-size:15px;
+}
+body{
+   background-color:rgb(115, 195, 241);
+}
+*{
+   color: rgb(1, 1, 11);
+   font-size: 15px;
+   font-family: 'Times New Roman', Times, serif
+}
+p{
+   text-align: left;
+   color: rgb(42, 19, 58);
+} 
+ul{
+   border: 1px solid rgb(196, 250, 203);
+   color:rgb(0, 0, 0)
+   font-size: 12px;
+}
+#header
+{
+    border: 1px solid #ccc;
+    font-size: 12px;
+}
+.orange1,.orange2{
+   color: rgb(0, 155, 13);
+   font-size:small;
+}
